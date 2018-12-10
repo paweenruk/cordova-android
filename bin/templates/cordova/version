@@ -20,7 +20,7 @@
 */
 
 // Coho updates this line:
-var VERSION = "7.1.5-rc";
+var VERSION = "7.1.5";
 
 module.exports.version = VERSION;
 
